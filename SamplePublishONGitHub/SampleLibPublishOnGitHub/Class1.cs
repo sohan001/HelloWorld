@@ -11,7 +11,6 @@ namespace SampleLibPublishOnGitHub
         public void test()
         {
             Console.WriteLine("Hello !!");
-
         }
     }
 }
