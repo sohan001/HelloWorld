@@ -12,7 +12,7 @@ namespace SampleLibPublishOnGitHub
         {
             Console.WriteLine("Hello World,  Master !!!");
             Console.WriteLine("this line has been changed from gitcopy by clone for existing code sample,  Branch 2!!!");
-            Console.WriteLine("this line has been changed from gitcopy by clone for existing code sample,  Branch 2222!!!");
+            Console.WriteLine("this line has been changed from gitcopy by clone for existing code sample,  Branch 2!!!");
         }
     }
 }
