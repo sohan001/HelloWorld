@@ -10,7 +10,7 @@ namespace SampleLibPublishOnGitHub
     {
         public void test()
         {
-            Console.WriteLine("Hello World,  !!!");
+            Console.WriteLine("Hello World,  Master !!!");
             Console.WriteLine("this line has been changed from gitcopy by clone for existing code sample,  !!!");
         }
     }
