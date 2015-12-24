@@ -11,8 +11,8 @@ namespace SampleLibPublishOnGitHub
         public void test()
         {
             Console.WriteLine("Hello World,  Master !!!");
-            Console.WriteLine("this line has been changed from gitcopy by clone for existing code sample,  !!!");
-            Console.WriteLine("this line has been changed from gitcopy by clone for existing code sample,  !!!");
+            Console.WriteLine("this line has been changed from gitcopy by clone for existing code sample,  Branch 2!!!");
+            Console.WriteLine("this line has been changed from gitcopy by clone for existing code sample,  Branch 2222!!!");
         }
     }
 }
